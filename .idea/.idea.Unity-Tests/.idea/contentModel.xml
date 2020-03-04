@@ -11,6 +11,14 @@
               <e p="Clock.cs" t="Include" />
             </e>
           </e>
+          <e p="2.MathematicalGraph" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Graph.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="ColoredPoint.shader" t="Include" />
+            </e>
+          </e>
         </e>
         <e p="ConsolePro" t="Include">
           <e p="ConsoleProDebug.cs" t="Include" />
